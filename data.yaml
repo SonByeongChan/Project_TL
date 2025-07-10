@@ -1,0 +1,10 @@
+names:
+- Firecracker
+- Hammer
+- NailClippers
+- Spanner
+- Thinner
+- ZippoOil
+nc: 6
+train: D:\AI_KDT7\12.Transfer_learning\mini\dataset\train
+val: D:\AI_KDT7\12.Transfer_learning\mini\dataset\val
